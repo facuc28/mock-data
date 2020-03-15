@@ -1,7 +1,8 @@
 {
-  "personalInformation": {
+  "profile": {
     "name": "Facundo",
-    "lastName": "Crusta"
+    "lastName": "Crusta",
+    "profilePictureUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQrSMKvTiZMAh6d60bDoE00p4waDsYl1-dItLk_Br6SikyNBoGL"
   },
   "contactInformation": {
     "address": {
