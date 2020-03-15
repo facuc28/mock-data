@@ -1,0 +1,29 @@
+{
+  "personalInformation": {
+    "name": "Facundo",
+    "lastName": "Crusta"
+  },
+  "contactInformation": {
+    "address": {
+      "addressLine1": "Fake Street",
+      "addressLine2": "Depto 2",
+      "City": "Cordoba",
+      "ZipCode": "5000"
+    },
+    "phones": [
+      {
+        "phoneNumber": "123456789",
+        "countryCode": "54",
+        "phoneType": "PERSONAL",
+        "primary": false
+      }
+    ],
+    "emails": [
+      {
+        "emailAddress": "facundo.crusta@globant.com",
+        "emailType": "WORK",
+        "primary": true
+      }
+    ]
+  }
+}
