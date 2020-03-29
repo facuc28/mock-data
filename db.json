@@ -4,27 +4,12 @@
     "lastName": "Crusta",
     "profilePictureUrl": "https://lh4.googleusercontent.com/-IR5Xdpoep5U/AAAAAAAAAAI/AAAAAAAAAcw/RlF8x_NcvDc/s128-c0x00000000-cc-rp-mo/photo.jpg"
   },
-  "contactInformation": {
-    "address": {
-      "addressLine1": "Fake Street",
-      "addressLine2": "Depto 2",
-      "City": "Cordoba",
-      "ZipCode": "5000"
-    },
-    "phones": [
-      {
-        "phoneNumber": "123456789",
-        "countryCode": "54",
-        "phoneType": "PERSONAL",
-        "primary": false
-      }
-    ],
-    "emails": [
-      {
-        "emailAddress": "facundo.crusta@globant.com",
-        "emailType": "WORK",
-        "primary": true
-      }
-    ]
-  }
+  serverList: [
+    {
+      "name": "THC Mu Online",
+      "description": "Nuevo servidor de mu online season 6. Apertura este sabado.",
+      "lastRefresh": "Marzo 23, 2019",
+      "longDescription": "Servidor de mu online fast con exp: x1000, drop: 80% reset al 400 y muchas cosas mas...",
+      "imgUrl": "http://top.tuservermu.com.ve/template/img/uploads/servers/banner_5ddb3a01aa8b2.png"
+    }]
 }
