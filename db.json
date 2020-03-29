@@ -4,12 +4,51 @@
     "lastName": "Crusta",
     "profilePictureUrl": "https://lh4.googleusercontent.com/-IR5Xdpoep5U/AAAAAAAAAAI/AAAAAAAAAcw/RlF8x_NcvDc/s128-c0x00000000-cc-rp-mo/photo.jpg"
   },
-  "serverList": [
-    {
-      "name": "THC Mu Online",
-      "description": "Nuevo servidor de mu online season 6. Apertura este sabado.",
-      "lastRefresh": "Marzo 23, 2019",
-      "longDescription": "Servidor de mu online fast con exp: x1000, drop: 80% reset al 400 y muchas cosas mas...",
-      "imgUrl": "http://top.tuservermu.com.ve/template/img/uploads/servers/banner_5ddb3a01aa8b2.png"
-    }]
+  "serverList":[
+  {
+    "name": "THC Mu Online",
+    "lastRefresh": "September 14, 2016",
+    "votes": 10,
+    "drop": "80%",
+    "experiencia": "500x",
+    "resetLvl": "400",
+    "resetPoints": "Si",
+    "masterExp": "300x",
+    "version": "Season 6",
+    "position": 1,
+    "imgUrl": "http://top.tuservermu.com.ve/template/img/uploads/servers/banner_5e66ec16ca2a4.gif",
+    "description": "Server exp: 100 y drop al 80% abrio hace una semana veni a verlo",
+    "longDescription": "Method Heat  cup of the broth in a pot until simmering, add saffron and set aside for 10 minutes."
+  },
+  {
+    "name": "THC Mu Online",
+    "lastRefresh": "September 14, 2016",
+    "votes": 10,
+    "drop": "80%",
+    "experiencia": "500x",
+    "resetLvl": "400",
+    "resetPoints": "Si",
+    "masterExp": "300x",
+    "version": "Season 6",
+    "position": 1,
+    "imgUrl": "http://top.tuservermu.com.ve/template/img/uploads/servers/banner_5e66ec16ca2a4.gif",
+    "description": "Server exp: 100 y drop al 80% abrio hace una semana veni a verlo",
+    "longDescription": "Method Heat  cup of the broth in a pot until simmering, add saffron and set aside for 10 minutes."
+  },
+  {
+    "name": "THC Mu Online",
+    "lastRefresh": "September 14, 2016",
+    "votes": 10,
+    "drop": "80%",
+    "experiencia": "500x",
+    "resetLvl": "400",
+    "resetPoints": "Si",
+    "masterExp": "300x",
+    "version": "Season 6",
+    "position": 1,
+    "imgUrl": "http://top.tuservermu.com.ve/template/img/uploads/servers/banner_5e66ec16ca2a4.gif",
+    "description": "Server exp: 100 y drop al 80% abrio hace una semana veni a verlo",
+    "longDescription": "Method Heat  cup of the broth in a pot until simmering, add saffron and set aside for 10 minutes."
+  }
+]
 }
