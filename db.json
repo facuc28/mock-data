@@ -4,7 +4,7 @@
     "lastName": "Crusta",
     "profilePictureUrl": "https://lh4.googleusercontent.com/-IR5Xdpoep5U/AAAAAAAAAAI/AAAAAAAAAcw/RlF8x_NcvDc/s128-c0x00000000-cc-rp-mo/photo.jpg"
   },
-  serverList: [
+  "serverList": [
     {
       "name": "THC Mu Online",
       "description": "Nuevo servidor de mu online season 6. Apertura este sabado.",
